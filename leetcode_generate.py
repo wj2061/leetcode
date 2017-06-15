@@ -458,7 +458,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
                     language = ''
 
             language = language.strip()
-            md += '|{id}|[{title}]({url})|{language}|{article}|{difficulty}|\n'.format(id=item.question_id, title=item.question__title_slug,
+            md += '|{id}|[{title}]({url})|{language}|{article}|{difficulty}|  \n'.format(id=item.question_id, title=item.question__title_slug,
                                                                                        url=item.url, language=language,
                                                                                        article=article, difficulty=item.difficulty)
         with open('README.md', 'w') as f:
