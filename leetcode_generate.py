@@ -20,6 +20,7 @@ from selenium import webdriver
 from pyquery import PyQuery as pq
 from collections import namedtuple, OrderedDict
 
+
 HOME = os.getcwd()
 CONFIG_FILE = os.path.join(HOME, 'config.cfg')
 COOKIE_PATH = 'cookies.json'
@@ -221,6 +222,7 @@ class Leetcode:
     def load(self):
         """
         load: all in one
+
         login -> load api -> load submissions -> solutions to items
         return `all in one items`
         """
@@ -290,6 +292,7 @@ class Leetcode:
     def load_solutions_to_items(self):
         """
         load all solutions to items
+
         combine submission's `runtime` `title` `lang` `submission_url` to items
         """
         titles = [i.question__title for i in self.items]
@@ -320,12 +323,12 @@ class Leetcode:
     def _get_code_by_solution(self, solution):
         """
         get code by solution
+
         solution: type dict
         """
         solution_url = solution['submission_url']
         r = self.session.get(solution_url, proxies=PROXIES)
         assert r.status_code == 200
-
         d = pq(r.text)
         question = d('html>head>meta[name=description]').attr('content').strip()
 
@@ -424,13 +427,20 @@ class Leetcode:
         languages_readme = ','.join([x.capitalize() for x in self.languages])
         md = '''# :pencil2: Leetcode Solutions with {language}
 Update time:  {tm}
+
 Auto created by [leetcode_generate](https://github.com/bonfy/leetcode)
+
 I have solved **{num_solved}   /   {num_total}** problems
 while there are **{num_lock}** problems still locked.
+
 If you want to use this tool please follow this [Usage Guide](https://github.com/bonfy/leetcode/blob/master/README_leetcode_generate.md)
+
 If you have any question, please give me an [issue]({repo}/issues).
+
 If you are loving solving problems in leetcode, please contact me to enjoy it together!
+
 (Notes: :lock: means you need to buy a book from Leetcode to unlock the problem)
+
 | # | Title | Source Code | Article | Difficulty |
 |:---:|:---:|:---:|:---:|:---:|'''.format(language=languages_readme,
                                           tm=time.strftime('%Y-%m-%d %H:%M:%S', time.localtime(time.time())),
@@ -458,7 +468,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
                     language = ''
 
             language = language.strip()
-            md += '|{id}|[{title}]({url})|{language}|{article}|{difficulty}|  \n'.format(id=item.question_id, title=item.question__title_slug,
+            md += '|{id}|[{title}]({url})|{language}|{article}|{difficulty}|\n'.format(id=item.question_id, title=item.question__title_slug,
                                                                                        url=item.url, language=language,
                                                                                        article=article, difficulty=item.difficulty)
         with open('README.md', 'w') as f:
