@@ -1,9 +1,9 @@
 # :pencil2: Leetcode Solutions with Javascript
-Update time:  2017-06-16 01:55:04
+Update time:  2017-06-16 02:01:16
 
 Auto created by [leetcode_generate](https://github.com/bonfy/leetcode)
 
-I have solved **59   /   547** problems
+I have solved **60   /   547** problems
 while there are **101** problems still locked.
 
 If you want to use this tool please follow this [Usage Guide](https://github.com/bonfy/leetcode/blob/master/README_leetcode_generate.md)
