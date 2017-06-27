@@ -1,9 +1,9 @@
 # :pencil2: Leetcode Solutions with Javascript
-Update time:  2017-06-26 05:06:11
+Update time:  2017-06-27 05:06:31
 
 Auto created by [leetcode_generate](https://github.com/bonfy/leetcode)
 
-I have solved **70   /   555** problems
+I have solved **72   /   555** problems
 while there are **101** problems still locked.
 
 If you want to use this tool please follow this [Usage Guide](https://github.com/bonfy/leetcode/blob/master/README_leetcode_generate.md)
@@ -50,7 +50,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |32|[longest-valid-parentheses](https://leetcode.com/problems/longest-valid-parentheses)||[:memo:](https://leetcode.com/articles/longest-valid-parentheses/)|Hard|
 |33|[search-in-rotated-sorted-array](https://leetcode.com/problems/search-in-rotated-sorted-array)|||Medium|
 |34|[search-for-a-range](https://leetcode.com/problems/search-for-a-range)|||Medium|
-|35|[search-insert-position](https://leetcode.com/problems/search-insert-position)|||Easy|
+|35|[search-insert-position](https://leetcode.com/problems/search-insert-position)|[Javascript](https://github.com/wj2061/leetcode/blob/master/035-search-insert-position/search-insert-position.js)||Easy|
 |36|[valid-sudoku](https://leetcode.com/problems/valid-sudoku)|||Medium|
 |37|[sudoku-solver](https://leetcode.com/problems/sudoku-solver)|||Hard|
 |38|[count-and-say](https://leetcode.com/problems/count-and-say)|||Easy|
@@ -122,7 +122,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |104|[maximum-depth-of-binary-tree](https://leetcode.com/problems/maximum-depth-of-binary-tree)|[Javascript](https://github.com/wj2061/leetcode/blob/master/104-maximum-depth-of-binary-tree/maximum-depth-of-binary-tree.js)||Easy|
 |105|[construct-binary-tree-from-preorder-and-inorder-traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal)|||Medium|
 |106|[construct-binary-tree-from-inorder-and-postorder-traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal)|||Medium|
-|107|[binary-tree-level-order-traversal-ii](https://leetcode.com/problems/binary-tree-level-order-traversal-ii)|||Easy|
+|107|[binary-tree-level-order-traversal-ii](https://leetcode.com/problems/binary-tree-level-order-traversal-ii)|[Javascript](https://github.com/wj2061/leetcode/blob/master/107-binary-tree-level-order-traversal-ii/binary-tree-level-order-traversal-ii.js)||Easy|
 |108|[convert-sorted-array-to-binary-search-tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree)|[Javascript](https://github.com/wj2061/leetcode/blob/master/108-convert-sorted-array-to-binary-search-tree/convert-sorted-array-to-binary-search-tree.js)||Easy|
 |109|[convert-sorted-list-to-binary-search-tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree)|||Medium|
 |110|[balanced-binary-tree](https://leetcode.com/problems/balanced-binary-tree)|||Easy|
@@ -567,7 +567,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |623|[add-one-row-to-tree](https://leetcode.com/problems/add-one-row-to-tree)||[:memo:](https://leetcode.com/articles/add-one-row-in-a-tree/)|Medium|
 |624|[maximum-distance-in-arrays](https://leetcode.com/problems/maximum-distance-in-arrays)|[Javascript](https://github.com/wj2061/leetcode/blob/master/624-maximum-distance-in-arrays/maximum-distance-in-arrays.js)|[:memo:](https://leetcode.com/articles/maximum-distance-in-array/)|Easy|
 |625|[minimum-factorization](https://leetcode.com/problems/minimum-factorization)||[:memo:](https://leetcode.com/articles/minimum-factorization/)|Medium|
-|628|[maximum-product-of-three-numbers](https://leetcode.com/problems/maximum-product-of-three-numbers)||[:memo:](https://leetcode.com/articles/maximmum-product-of-three-numbers/)|Easy|
+|628|[maximum-product-of-three-numbers](https://leetcode.com/problems/maximum-product-of-three-numbers)|[Javascript](https://github.com/wj2061/leetcode/blob/master/628-maximum-product-of-three-numbers/maximum-product-of-three-numbers.js)|[:memo:](https://leetcode.com/articles/maximmum-product-of-three-numbers/)|Easy|
 |629|[k-inverse-pairs-array](https://leetcode.com/problems/k-inverse-pairs-array)||[:memo:](https://leetcode.com/articles/k-inverse-pairs-array/)|Medium|
 |630|[course-schedule-iii](https://leetcode.com/problems/course-schedule-iii)||[:memo:](https://leetcode.com/articles/course-schedule-iii/)|Medium|
-|631|[design-excel-sum-formula](https://leetcode.com/problems/design-excel-sum-formula)|||Hard|
+|631|[design-excel-sum-formula](https://leetcode.com/problems/design-excel-sum-formula)||[:memo:](https://leetcode.com/articles/design-excel-sum-formula/)|Hard|
