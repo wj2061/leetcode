@@ -1,9 +1,9 @@
 # :pencil2: Leetcode Solutions with Javascript
-Update time:  2017-06-27 05:06:31
+Update time:  2017-06-28 05:06:54
 
 Auto created by [leetcode_generate](https://github.com/bonfy/leetcode)
 
-I have solved **72   /   555** problems
+I have solved **73   /   555** problems
 while there are **101** problems still locked.
 
 If you want to use this tool please follow this [Usage Guide](https://github.com/bonfy/leetcode/blob/master/README_leetcode_generate.md)
@@ -428,7 +428,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |434|[number-of-segments-in-a-string](https://leetcode.com/problems/number-of-segments-in-a-string)|||Easy|
 |435|[non-overlapping-intervals](https://leetcode.com/problems/non-overlapping-intervals)||[:memo:](https://leetcode.com/articles/non-overlapping-intervals/)|Medium|
 |436|[find-right-interval](https://leetcode.com/problems/find-right-interval)||[:memo:](https://leetcode.com/articles/find-right-interval/)|Medium|
-|437|[path-sum-iii](https://leetcode.com/problems/path-sum-iii)|||Easy|
+|437|[path-sum-iii](https://leetcode.com/problems/path-sum-iii)|[Javascript](https://github.com/wj2061/leetcode/blob/master/437-path-sum-iii/path-sum-iii.js)||Easy|
 |438|[find-all-anagrams-in-a-string](https://leetcode.com/problems/find-all-anagrams-in-a-string)|||Easy|
 |439|[ternary-expression-parser](https://leetcode.com/problems/ternary-expression-parser)|:lock:||Medium|
 |440|[k-th-smallest-in-lexicographical-order](https://leetcode.com/problems/k-th-smallest-in-lexicographical-order)|||Hard|
@@ -446,7 +446,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |453|[minimum-moves-to-equal-array-elements](https://leetcode.com/problems/minimum-moves-to-equal-array-elements)|[Javascript](https://github.com/wj2061/leetcode/blob/master/453-minimum-moves-to-equal-array-elements/minimum-moves-to-equal-array-elements.js)|[:memo:](https://leetcode.com/articles/minimum-moves-to-equal-array-elements/)|Easy|
 |454|[4sum-ii](https://leetcode.com/problems/4sum-ii)|||Medium|
 |455|[assign-cookies](https://leetcode.com/problems/assign-cookies)|[Javascript](https://github.com/wj2061/leetcode/blob/master/455-assign-cookies/assign-cookies.js)||Easy|
-|456|[132-pattern](https://leetcode.com/problems/132-pattern)|||Medium|
+|456|[132-pattern](https://leetcode.com/problems/132-pattern)||[:memo:](https://leetcode.com/articles/132-pattern/)|Medium|
 |459|[repeated-substring-pattern](https://leetcode.com/problems/repeated-substring-pattern)|||Easy|
 |460|[lfu-cache](https://leetcode.com/problems/lfu-cache)|||Hard|
 |461|[hamming-distance](https://leetcode.com/problems/hamming-distance)|[Javascript](https://github.com/wj2061/leetcode/blob/master/461-hamming-distance/hamming-distance.js)||Easy|
