@@ -1,9 +1,9 @@
 # :pencil2: Leetcode Solutions with Javascript
-Update time:  2017-06-29 05:07:20
+Update time:  2017-06-30 05:07:41
 
 Auto created by [leetcode_generate](https://github.com/bonfy/leetcode)
 
-I have solved **74   /   555** problems
+I have solved **75   /   555** problems
 while there are **101** problems still locked.
 
 If you want to use this tool please follow this [Usage Guide](https://github.com/bonfy/leetcode/blob/master/README_leetcode_generate.md)
@@ -196,7 +196,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |188|[best-time-to-buy-and-sell-stock-iv](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv)|||Hard|
 |189|[rotate-array](https://leetcode.com/problems/rotate-array)||[:memo:](https://leetcode.com/articles/rotate-array/)|Easy|
 |190|[reverse-bits](https://leetcode.com/problems/reverse-bits)|||Easy|
-|191|[number-of-1-bits](https://leetcode.com/problems/number-of-1-bits)||[:memo:](https://leetcode.com/articles/number-1-bits/)|Easy|
+|191|[number-of-1-bits](https://leetcode.com/problems/number-of-1-bits)|[Javascript](https://github.com/wj2061/leetcode/blob/master/191-number-of-1-bits/number-of-1-bits.js)|[:memo:](https://leetcode.com/articles/number-1-bits/)|Easy|
 |198|[house-robber](https://leetcode.com/problems/house-robber)||[:memo:](https://leetcode.com/articles/house-robber/)|Easy|
 |199|[binary-tree-right-side-view](https://leetcode.com/problems/binary-tree-right-side-view)|||Medium|
 |200|[number-of-islands](https://leetcode.com/problems/number-of-islands)|||Medium|
