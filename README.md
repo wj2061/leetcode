@@ -1,9 +1,9 @@
 # :pencil2: Leetcode Solutions with Javascript
-Update time:  2017-07-02 05:08:17
+Update time:  2017-07-03 05:08:39
 
 Auto created by [leetcode_generate](https://github.com/bonfy/leetcode)
 
-I have solved **77   /   559** problems
+I have solved **78   /   559** problems
 while there are **101** problems still locked.
 
 If you want to use this tool please follow this [Usage Guide](https://github.com/bonfy/leetcode/blob/master/README_leetcode_generate.md)
@@ -36,7 +36,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |18|[4sum](https://leetcode.com/problems/4sum)|||Medium|
 |19|[remove-nth-node-from-end-of-list](https://leetcode.com/problems/remove-nth-node-from-end-of-list)||[:memo:](https://leetcode.com/articles/remove-nth-node-end-list/)|Medium|
 |20|[valid-parentheses](https://leetcode.com/problems/valid-parentheses)|||Easy|
-|21|[merge-two-sorted-lists](https://leetcode.com/problems/merge-two-sorted-lists)|||Easy|
+|21|[merge-two-sorted-lists](https://leetcode.com/problems/merge-two-sorted-lists)|[Javascript](https://github.com/wj2061/leetcode/blob/master/021-merge-two-sorted-lists/merge-two-sorted-lists.js)||Easy|
 |22|[generate-parentheses](https://leetcode.com/problems/generate-parentheses)|||Medium|
 |23|[merge-k-sorted-lists](https://leetcode.com/problems/merge-k-sorted-lists)|||Hard|
 |24|[swap-nodes-in-pairs](https://leetcode.com/problems/swap-nodes-in-pairs)|||Medium|
@@ -572,6 +572,6 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |630|[course-schedule-iii](https://leetcode.com/problems/course-schedule-iii)||[:memo:](https://leetcode.com/articles/course-schedule-iii/)|Medium|
 |631|[design-excel-sum-formula](https://leetcode.com/problems/design-excel-sum-formula)||[:memo:](https://leetcode.com/articles/design-excel-sum-formula/)|Hard|
 |632|[smallest-range](https://leetcode.com/problems/smallest-range)||[:memo:](https://leetcode.com/articles/smallest-range/)|Hard|
-|633|[sum-of-square-numbers](https://leetcode.com/problems/sum-of-square-numbers)||[:memo:](https://leetcode.com/articles/sum-of-square-numbers/)|Easy|
+|633|[sum-of-square-numbers](https://leetcode.com/problems/sum-of-square-numbers)|[Javascript](https://github.com/wj2061/leetcode/blob/master/633-sum-of-square-numbers/sum-of-square-numbers.js)|[:memo:](https://leetcode.com/articles/sum-of-square-numbers/)|Easy|
 |634|[find-the-derangement-of-an-array](https://leetcode.com/problems/find-the-derangement-of-an-array)||[:memo:](https://leetcode.com/articles/find-derangements/)|Medium|
 |635|[design-log-storage-system](https://leetcode.com/problems/design-log-storage-system)||[:memo:](https://leetcode.com/articles/design-log-storage/)|Medium|
