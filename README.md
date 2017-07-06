@@ -1,9 +1,9 @@
 # :pencil2: Leetcode Solutions with Javascript
-Update time:  2017-07-05 05:09:25
+Update time:  2017-07-06 05:09:48
 
 Auto created by [leetcode_generate](https://github.com/bonfy/leetcode)
 
-I have solved **80   /   559** problems
+I have solved **81   /   559** problems
 while there are **105** problems still locked.
 
 If you want to use this tool please follow this [Usage Guide](https://github.com/bonfy/leetcode/blob/master/README_leetcode_generate.md)
@@ -197,7 +197,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |189|[rotate-array](https://leetcode.com/problems/rotate-array)||[:memo:](https://leetcode.com/articles/rotate-array/)|Easy|
 |190|[reverse-bits](https://leetcode.com/problems/reverse-bits)|||Easy|
 |191|[number-of-1-bits](https://leetcode.com/problems/number-of-1-bits)|[Javascript](https://github.com/wj2061/leetcode/blob/master/191-number-of-1-bits/number-of-1-bits.js)|[:memo:](https://leetcode.com/articles/number-1-bits/)|Easy|
-|198|[house-robber](https://leetcode.com/problems/house-robber)||[:memo:](https://leetcode.com/articles/house-robber/)|Easy|
+|198|[house-robber](https://leetcode.com/problems/house-robber)|[Javascript](https://github.com/wj2061/leetcode/blob/master/198-house-robber/house-robber.js)|[:memo:](https://leetcode.com/articles/house-robber/)|Easy|
 |199|[binary-tree-right-side-view](https://leetcode.com/problems/binary-tree-right-side-view)|||Medium|
 |200|[number-of-islands](https://leetcode.com/problems/number-of-islands)|||Medium|
 |201|[bitwise-and-of-numbers-range](https://leetcode.com/problems/bitwise-and-of-numbers-range)|||Medium|
@@ -477,7 +477,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |490|[the-maze](https://leetcode.com/problems/the-maze)|:lock:|[:memo:](https://leetcode.com/articles/the-maze/)|Medium|
 |491|[increasing-subsequences](https://leetcode.com/problems/increasing-subsequences)|||Medium|
 |492|[construct-the-rectangle](https://leetcode.com/problems/construct-the-rectangle)|[Javascript](https://github.com/wj2061/leetcode/blob/master/492-construct-the-rectangle/construct-the-rectangle.js)||Easy|
-|493|[reverse-pairs](https://leetcode.com/problems/reverse-pairs)|||Hard|
+|493|[reverse-pairs](https://leetcode.com/problems/reverse-pairs)||[:memo:](https://leetcode.com/articles/reverse-pairs/)|Hard|
 |494|[target-sum](https://leetcode.com/problems/target-sum)||[:memo:](https://leetcode.com/articles/target-sum/)|Medium|
 |495|[teemo-attacking](https://leetcode.com/problems/teemo-attacking)|||Medium|
 |496|[next-greater-element-i](https://leetcode.com/problems/next-greater-element-i)|[Javascript](https://github.com/wj2061/leetcode/blob/master/496-next-greater-element-i/next-greater-element-i.js)|[:memo:](https://leetcode.com/articles/greater-element-i/)|Easy|
