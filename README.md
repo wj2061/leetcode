@@ -1,9 +1,9 @@
 # :pencil2: Leetcode Solutions with Javascript
-Update time:  2017-07-06 05:09:48
+Update time:  2017-07-07 05:10:10
 
 Auto created by [leetcode_generate](https://github.com/bonfy/leetcode)
 
-I have solved **81   /   559** problems
+I have solved **82   /   559** problems
 while there are **105** problems still locked.
 
 If you want to use this tool please follow this [Usage Guide](https://github.com/bonfy/leetcode/blob/master/README_leetcode_generate.md)
@@ -116,7 +116,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |98|[validate-binary-search-tree](https://leetcode.com/problems/validate-binary-search-tree)|||Medium|
 |99|[recover-binary-search-tree](https://leetcode.com/problems/recover-binary-search-tree)|||Hard|
 |100|[same-tree](https://leetcode.com/problems/same-tree)|[Javascript](https://github.com/wj2061/leetcode/blob/master/100-same-tree/same-tree.js)||Easy|
-|101|[symmetric-tree](https://leetcode.com/problems/symmetric-tree)||[:memo:](https://leetcode.com/articles/symmetric-tree/)|Easy|
+|101|[symmetric-tree](https://leetcode.com/problems/symmetric-tree)|[Javascript](https://github.com/wj2061/leetcode/blob/master/101-symmetric-tree/symmetric-tree.js)|[:memo:](https://leetcode.com/articles/symmetric-tree/)|Easy|
 |102|[binary-tree-level-order-traversal](https://leetcode.com/problems/binary-tree-level-order-traversal)|||Medium|
 |103|[binary-tree-zigzag-level-order-traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal)|||Medium|
 |104|[maximum-depth-of-binary-tree](https://leetcode.com/problems/maximum-depth-of-binary-tree)|[Javascript](https://github.com/wj2061/leetcode/blob/master/104-maximum-depth-of-binary-tree/maximum-depth-of-binary-tree.js)||Easy|
