@@ -1,9 +1,9 @@
 # :pencil2: Leetcode Solutions with Javascript
-Update time:  2017-07-11 05:11:41
+Update time:  2017-07-12 05:12:05
 
 Auto created by [leetcode_generate](https://github.com/bonfy/leetcode)
 
-I have solved **86   /   565** problems
+I have solved **87   /   565** problems
 while there are **105** problems still locked.
 
 If you want to use this tool please follow this [Usage Guide](https://github.com/bonfy/leetcode/blob/master/README_leetcode_generate.md)
@@ -447,7 +447,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |454|[4sum-ii](https://leetcode.com/problems/4sum-ii)|||Medium|
 |455|[assign-cookies](https://leetcode.com/problems/assign-cookies)|[Javascript](https://github.com/wj2061/leetcode/blob/master/455-assign-cookies/assign-cookies.js)||Easy|
 |456|[132-pattern](https://leetcode.com/problems/132-pattern)||[:memo:](https://leetcode.com/articles/132-pattern/)|Medium|
-|459|[repeated-substring-pattern](https://leetcode.com/problems/repeated-substring-pattern)|||Easy|
+|459|[repeated-substring-pattern](https://leetcode.com/problems/repeated-substring-pattern)|[Javascript](https://github.com/wj2061/leetcode/blob/master/459-repeated-substring-pattern/repeated-substring-pattern.js)||Easy|
 |460|[lfu-cache](https://leetcode.com/problems/lfu-cache)|||Hard|
 |461|[hamming-distance](https://leetcode.com/problems/hamming-distance)|[Javascript](https://github.com/wj2061/leetcode/blob/master/461-hamming-distance/hamming-distance.js)||Easy|
 |462|[minimum-moves-to-equal-array-elements-ii](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii)||[:memo:](https://leetcode.com/articles/minimum-moves-to-equal-array-elements-ii/)|Medium|
