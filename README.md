@@ -1,9 +1,9 @@
 # :pencil2: Leetcode Solutions with Javascript
-Update time:  2017-07-12 05:12:05
+Update time:  2017-07-13 05:12:27
 
 Auto created by [leetcode_generate](https://github.com/bonfy/leetcode)
 
-I have solved **87   /   565** problems
+I have solved **88   /   565** problems
 while there are **105** problems still locked.
 
 If you want to use this tool please follow this [Usage Guide](https://github.com/bonfy/leetcode/blob/master/README_leetcode_generate.md)
@@ -411,7 +411,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |410|[split-array-largest-sum](https://leetcode.com/problems/split-array-largest-sum)|||Hard|
 |411|[minimum-unique-word-abbreviation](https://leetcode.com/problems/minimum-unique-word-abbreviation)|:lock:||Hard|
 |412|[fizz-buzz](https://leetcode.com/problems/fizz-buzz)|[Javascript](https://github.com/wj2061/leetcode/blob/master/412-fizz-buzz/fizz-buzz.js)||Easy|
-|413|[arithmetic-slices](https://leetcode.com/problems/arithmetic-slices)|||Medium|
+|413|[arithmetic-slices](https://leetcode.com/problems/arithmetic-slices)||[:memo:](https://leetcode.com/articles/arithmetic-slices/)|Medium|
 |414|[third-maximum-number](https://leetcode.com/problems/third-maximum-number)|||Easy|
 |415|[add-strings](https://leetcode.com/problems/add-strings)|[Javascript](https://github.com/wj2061/leetcode/blob/master/415-add-strings/add-strings.js)||Easy|
 |416|[partition-equal-subset-sum](https://leetcode.com/problems/partition-equal-subset-sum)|||Medium|
@@ -485,7 +485,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |498|[diagonal-traverse](https://leetcode.com/problems/diagonal-traverse)|||Medium|
 |499|[the-maze-iii](https://leetcode.com/problems/the-maze-iii)|:lock:||Hard|
 |500|[keyboard-row](https://leetcode.com/problems/keyboard-row)|[Javascript](https://github.com/wj2061/leetcode/blob/master/500-keyboard-row/keyboard-row.js)||Easy|
-|501|[find-mode-in-binary-search-tree](https://leetcode.com/problems/find-mode-in-binary-search-tree)|||Easy|
+|501|[find-mode-in-binary-search-tree](https://leetcode.com/problems/find-mode-in-binary-search-tree)|[Javascript](https://github.com/wj2061/leetcode/blob/master/501-find-mode-in-binary-search-tree/find-mode-in-binary-search-tree.js)||Easy|
 |502|[ipo](https://leetcode.com/problems/ipo)|||Hard|
 |503|[next-greater-element-ii](https://leetcode.com/problems/next-greater-element-ii)||[:memo:](https://leetcode.com/articles/next-greater-element-ii/)|Medium|
 |504|[base-7](https://leetcode.com/problems/base-7)|[Javascript](https://github.com/wj2061/leetcode/blob/master/504-base-7/base-7.js)||Easy|
