@@ -1,5 +1,5 @@
 # :pencil2: Leetcode Solutions with Javascript
-Update time:  2017-07-14 05:12:49
+Update time:  2017-07-15 05:13:07
 
 Auto created by [leetcode_generate](https://github.com/bonfy/leetcode)
 
