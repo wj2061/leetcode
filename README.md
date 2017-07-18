@@ -1,9 +1,9 @@
 # :pencil2: Leetcode Solutions with Javascript
-Update time:  2017-07-17 05:13:50
+Update time:  2017-07-18 05:14:14
 
 Auto created by [leetcode_generate](https://github.com/bonfy/leetcode)
 
-I have solved **89   /   569** problems
+I have solved **90   /   569** problems
 while there are **107** problems still locked.
 
 If you want to use this tool please follow this [Usage Guide](https://github.com/bonfy/leetcode/blob/master/README_leetcode_generate.md)
@@ -365,7 +365,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |364|[nested-list-weight-sum-ii](https://leetcode.com/problems/nested-list-weight-sum-ii)|:lock:||Medium|
 |365|[water-and-jug-problem](https://leetcode.com/problems/water-and-jug-problem)|||Medium|
 |366|[find-leaves-of-binary-tree](https://leetcode.com/problems/find-leaves-of-binary-tree)|:lock:||Medium|
-|367|[valid-perfect-square](https://leetcode.com/problems/valid-perfect-square)|||Easy|
+|367|[valid-perfect-square](https://leetcode.com/problems/valid-perfect-square)|[Javascript](https://github.com/wj2061/leetcode/blob/master/367-valid-perfect-square/valid-perfect-square.js)||Easy|
 |368|[largest-divisible-subset](https://leetcode.com/problems/largest-divisible-subset)|||Medium|
 |369|[plus-one-linked-list](https://leetcode.com/problems/plus-one-linked-list)|:lock:||Medium|
 |370|[range-addition](https://leetcode.com/problems/range-addition)|:lock:|[:memo:](https://leetcode.com/articles/range-addition/)|Medium|
