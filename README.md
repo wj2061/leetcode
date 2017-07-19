@@ -1,9 +1,9 @@
 # :pencil2: Leetcode Solutions with Javascript
-Update time:  2017-07-18 05:14:14
+Update time:  2017-07-19 05:14:37
 
 Auto created by [leetcode_generate](https://github.com/bonfy/leetcode)
 
-I have solved **90   /   569** problems
+I have solved **91   /   569** problems
 while there are **107** problems still locked.
 
 If you want to use this tool please follow this [Usage Guide](https://github.com/bonfy/leetcode/blob/master/README_leetcode_generate.md)
@@ -256,7 +256,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |254|[factor-combinations](https://leetcode.com/problems/factor-combinations)|:lock:||Medium|
 |255|[verify-preorder-sequence-in-binary-search-tree](https://leetcode.com/problems/verify-preorder-sequence-in-binary-search-tree)|:lock:||Medium|
 |256|[paint-house](https://leetcode.com/problems/paint-house)|:lock:||Easy|
-|257|[binary-tree-paths](https://leetcode.com/problems/binary-tree-paths)|||Easy|
+|257|[binary-tree-paths](https://leetcode.com/problems/binary-tree-paths)|[Javascript](https://github.com/wj2061/leetcode/blob/master/257-binary-tree-paths/binary-tree-paths.js)||Easy|
 |258|[add-digits](https://leetcode.com/problems/add-digits)|[Javascript](https://github.com/wj2061/leetcode/blob/master/258-add-digits/add-digits.js)||Easy|
 |259|[3sum-smaller](https://leetcode.com/problems/3sum-smaller)|:lock:|[:memo:](https://leetcode.com/articles/3sum-smaller/)|Medium|
 |260|[single-number-iii](https://leetcode.com/problems/single-number-iii)|||Medium|
