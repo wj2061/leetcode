@@ -1,9 +1,9 @@
 # :pencil2: Leetcode Solutions with Javascript
-Update time:  2017-07-27 05:17:17
+Update time:  2017-07-28 05:17:36
 
 Auto created by [leetcode_generate](https://github.com/bonfy/leetcode)
 
-I have solved **95   /   573** problems
+I have solved **96   /   573** problems
 while there are **107** problems still locked.
 
 If you want to use this tool please follow this [Usage Guide](https://github.com/bonfy/leetcode/blob/master/README_leetcode_generate.md)
@@ -125,7 +125,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |107|[binary-tree-level-order-traversal-ii](https://leetcode.com/problems/binary-tree-level-order-traversal-ii)|[Javascript](https://github.com/wj2061/leetcode/blob/master/107-binary-tree-level-order-traversal-ii/binary-tree-level-order-traversal-ii.js)||Easy|
 |108|[convert-sorted-array-to-binary-search-tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree)|[Javascript](https://github.com/wj2061/leetcode/blob/master/108-convert-sorted-array-to-binary-search-tree/convert-sorted-array-to-binary-search-tree.js)||Easy|
 |109|[convert-sorted-list-to-binary-search-tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree)|||Medium|
-|110|[balanced-binary-tree](https://leetcode.com/problems/balanced-binary-tree)|||Easy|
+|110|[balanced-binary-tree](https://leetcode.com/problems/balanced-binary-tree)|[Javascript](https://github.com/wj2061/leetcode/blob/master/110-balanced-binary-tree/balanced-binary-tree.js)||Easy|
 |111|[minimum-depth-of-binary-tree](https://leetcode.com/problems/minimum-depth-of-binary-tree)|||Easy|
 |112|[path-sum](https://leetcode.com/problems/path-sum)|||Easy|
 |113|[path-sum-ii](https://leetcode.com/problems/path-sum-ii)|||Medium|
