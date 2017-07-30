@@ -1,9 +1,9 @@
 # :pencil2: Leetcode Solutions with Javascript
-Update time:  2017-07-29 05:17:46
+Update time:  2017-07-30 05:18:06
 
 Auto created by [leetcode_generate](https://github.com/bonfy/leetcode)
 
-I have solved **96   /   573** problems
+I have solved **97   /   577** problems
 while there are **107** problems still locked.
 
 If you want to use this tool please follow this [Usage Guide](https://github.com/bonfy/leetcode/blob/master/README_leetcode_generate.md)
@@ -425,7 +425,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |424|[longest-repeating-character-replacement](https://leetcode.com/problems/longest-repeating-character-replacement)|||Medium|
 |425|[word-squares](https://leetcode.com/problems/word-squares)|:lock:||Hard|
 |432|[all-oone-data-structure](https://leetcode.com/problems/all-oone-data-structure)|||Hard|
-|434|[number-of-segments-in-a-string](https://leetcode.com/problems/number-of-segments-in-a-string)|||Easy|
+|434|[number-of-segments-in-a-string](https://leetcode.com/problems/number-of-segments-in-a-string)|[Javascript](https://github.com/wj2061/leetcode/blob/master/434-number-of-segments-in-a-string/number-of-segments-in-a-string.js)||Easy|
 |435|[non-overlapping-intervals](https://leetcode.com/problems/non-overlapping-intervals)||[:memo:](https://leetcode.com/articles/non-overlapping-intervals/)|Medium|
 |436|[find-right-interval](https://leetcode.com/problems/find-right-interval)||[:memo:](https://leetcode.com/articles/find-right-interval/)|Medium|
 |437|[path-sum-iii](https://leetcode.com/problems/path-sum-iii)|[Javascript](https://github.com/wj2061/leetcode/blob/master/437-path-sum-iii/path-sum-iii.js)||Easy|
@@ -589,3 +589,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |646|[maximum-length-of-pair-chain](https://leetcode.com/problems/maximum-length-of-pair-chain)|||Medium|
 |647|[palindromic-substrings](https://leetcode.com/problems/palindromic-substrings)|||Medium|
 |648|[replace-words](https://leetcode.com/problems/replace-words)|||Medium|
+|649|[dota2-senate](https://leetcode.com/problems/dota2-senate)|||Medium|
+|650|[2-keys-keyboard](https://leetcode.com/problems/2-keys-keyboard)|||Medium|
+|651|[4-keys-keyboard](https://leetcode.com/problems/4-keys-keyboard)|||Medium|
+|652|[find-duplicate-subtrees](https://leetcode.com/problems/find-duplicate-subtrees)|||Medium|
