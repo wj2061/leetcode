@@ -1,9 +1,9 @@
 # :pencil2: Leetcode Solutions with Javascript
-Update time:  2017-08-17 05:22:31
+Update time:  2017-08-18 05:22:51
 
 Auto created by [leetcode_generate](https://github.com/bonfy/leetcode)
 
-I have solved **99   /   585** problems
+I have solved **100   /   585** problems
 while there are **110** problems still locked.
 
 If you want to use this tool please follow this [Usage Guide](https://github.com/bonfy/leetcode/blob/master/README_leetcode_generate.md)
@@ -134,7 +134,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |116|[populating-next-right-pointers-in-each-node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node)|||Medium|
 |117|[populating-next-right-pointers-in-each-node-ii](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii)|||Medium|
 |118|[pascals-triangle](https://leetcode.com/problems/pascals-triangle)|[Javascript](https://github.com/wj2061/leetcode/blob/master/118-pascals-triangle/pascals-triangle.js)||Easy|
-|119|[pascals-triangle-ii](https://leetcode.com/problems/pascals-triangle-ii)|||Easy|
+|119|[pascals-triangle-ii](https://leetcode.com/problems/pascals-triangle-ii)|[Javascript](https://github.com/wj2061/leetcode/blob/master/119-pascals-triangle-ii/pascals-triangle-ii.js)||Easy|
 |120|[triangle](https://leetcode.com/problems/triangle)|||Medium|
 |121|[best-time-to-buy-and-sell-stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock)|[Javascript](https://github.com/wj2061/leetcode/blob/master/121-best-time-to-buy-and-sell-stock/best-time-to-buy-and-sell-stock.js)|[:memo:](https://leetcode.com/articles/best-time-buy-and-sell-stock/)|Easy|
 |122|[best-time-to-buy-and-sell-stock-ii](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii)|[Javascript](https://github.com/wj2061/leetcode/blob/master/122-best-time-to-buy-and-sell-stock-ii/best-time-to-buy-and-sell-stock-ii.js)|[:memo:](https://leetcode.com/articles/best-time-buy-and-sell-stock-ii/)|Easy|
