@@ -1,9 +1,9 @@
 # :pencil2: Leetcode Solutions with Javascript
-Update time:  2017-08-23 05:24:10
+Update time:  2017-08-24 05:24:35
 
 Auto created by [leetcode_generate](https://github.com/bonfy/leetcode)
 
-I have solved **100   /   589** problems
+I have solved **101   /   589** problems
 while there are **110** problems still locked.
 
 If you want to use this tool please follow this [Usage Guide](https://github.com/bonfy/leetcode/blob/master/README_leetcode_generate.md)
@@ -231,7 +231,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |229|[majority-element-ii](https://leetcode.com/problems/majority-element-ii)|||Medium|
 |230|[kth-smallest-element-in-a-bst](https://leetcode.com/problems/kth-smallest-element-in-a-bst)|||Medium|
 |231|[power-of-two](https://leetcode.com/problems/power-of-two)|[Javascript](https://github.com/wj2061/leetcode/blob/master/231-power-of-two/power-of-two.js)||Easy|
-|232|[implement-queue-using-stacks](https://leetcode.com/problems/implement-queue-using-stacks)||[:memo:](https://leetcode.com/articles/implement-queue-using-stacks/)|Easy|
+|232|[implement-queue-using-stacks](https://leetcode.com/problems/implement-queue-using-stacks)|[Javascript](https://github.com/wj2061/leetcode/blob/master/232-implement-queue-using-stacks/implement-queue-using-stacks.js)|[:memo:](https://leetcode.com/articles/implement-queue-using-stacks/)|Easy|
 |233|[number-of-digit-one](https://leetcode.com/problems/number-of-digit-one)||[:memo:](https://leetcode.com/articles/number-of-digit-one/)|Hard|
 |234|[palindrome-linked-list](https://leetcode.com/problems/palindrome-linked-list)|||Easy|
 |235|[lowest-common-ancestor-of-a-binary-search-tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree)|[Javascript](https://github.com/wj2061/leetcode/blob/master/235-lowest-common-ancestor-of-a-binary-search-tree/lowest-common-ancestor-of-a-binary-search-tree.js)||Easy|
@@ -454,7 +454,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |463|[island-perimeter](https://leetcode.com/problems/island-perimeter)|[Javascript](https://github.com/wj2061/leetcode/blob/master/463-island-perimeter/island-perimeter.js)||Easy|
 |464|[can-i-win](https://leetcode.com/problems/can-i-win)|||Medium|
 |465|[optimal-account-balancing](https://leetcode.com/problems/optimal-account-balancing)|:lock:||Hard|
-|466|[count-the-repetitions](https://leetcode.com/problems/count-the-repetitions)|||Hard|
+|466|[count-the-repetitions](https://leetcode.com/problems/count-the-repetitions)||[:memo:](https://leetcode.com/articles/count-the-repetitions/)|Hard|
 |467|[unique-substrings-in-wraparound-string](https://leetcode.com/problems/unique-substrings-in-wraparound-string)|||Medium|
 |468|[validate-ip-address](https://leetcode.com/problems/validate-ip-address)|||Medium|
 |469|[convex-polygon](https://leetcode.com/problems/convex-polygon)|:lock:||Medium|
@@ -598,7 +598,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |655|[print-binary-tree](https://leetcode.com/problems/print-binary-tree)||[:memo:](https://leetcode.com/articles/print-binary-tree/)|Medium|
 |656|[coin-path](https://leetcode.com/problems/coin-path)|:lock:|[:memo:](https://leetcode.com/articles/coin-path/)|Hard|
 |657|[judge-route-circle](https://leetcode.com/problems/judge-route-circle)|||Easy|
-|658|[find-k-closest-elements](https://leetcode.com/problems/find-k-closest-elements)|||Medium|
+|658|[find-k-closest-elements](https://leetcode.com/problems/find-k-closest-elements)||[:memo:](https://leetcode.com/articles/find-k-closest-elements/)|Medium|
 |659|[split-array-into-consecutive-subsequences](https://leetcode.com/problems/split-array-into-consecutive-subsequences)|||Medium|
 |660|[remove-9](https://leetcode.com/problems/remove-9)|||Hard|
 |661|[image-smoother](https://leetcode.com/problems/image-smoother)|||Easy|
