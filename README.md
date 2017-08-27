@@ -1,9 +1,9 @@
 # :pencil2: Leetcode Solutions with Javascript
-Update time:  2017-08-26 05:25:06
+Update time:  2017-08-27 05:25:26
 
 Auto created by [leetcode_generate](https://github.com/bonfy/leetcode)
 
-I have solved **102   /   589** problems
+I have solved **103   /   593** problems
 while there are **110** problems still locked.
 
 If you want to use this tool please follow this [Usage Guide](https://github.com/bonfy/leetcode/blob/master/README_leetcode_generate.md)
@@ -187,7 +187,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |169|[majority-element](https://leetcode.com/problems/majority-element)|[Javascript](https://github.com/wj2061/leetcode/blob/master/169-majority-element/majority-element.js)||Easy|
 |170|[two-sum-iii-data-structure-design](https://leetcode.com/problems/two-sum-iii-data-structure-design)|:lock:||Easy|
 |171|[excel-sheet-column-number](https://leetcode.com/problems/excel-sheet-column-number)|[Javascript](https://github.com/wj2061/leetcode/blob/master/171-excel-sheet-column-number/excel-sheet-column-number.js)||Easy|
-|172|[factorial-trailing-zeroes](https://leetcode.com/problems/factorial-trailing-zeroes)|||Easy|
+|172|[factorial-trailing-zeroes](https://leetcode.com/problems/factorial-trailing-zeroes)|[Javascript](https://github.com/wj2061/leetcode/blob/master/172-factorial-trailing-zeroes/factorial-trailing-zeroes.js)||Easy|
 |173|[binary-search-tree-iterator](https://leetcode.com/problems/binary-search-tree-iterator)|||Medium|
 |174|[dungeon-game](https://leetcode.com/problems/dungeon-game)|||Hard|
 |179|[largest-number](https://leetcode.com/problems/largest-number)|||Medium|
@@ -605,3 +605,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |662|[maximum-width-of-binary-tree](https://leetcode.com/problems/maximum-width-of-binary-tree)|||Medium|
 |663|[equal-tree-partition](https://leetcode.com/problems/equal-tree-partition)|||Medium|
 |664|[strange-printer](https://leetcode.com/problems/strange-printer)|||Hard|
+|665|[non-decreasing-array](https://leetcode.com/problems/non-decreasing-array)|||Easy|
+|666|[path-sum-iv](https://leetcode.com/problems/path-sum-iv)|||Medium|
+|667|[beautiful-arrangement-ii](https://leetcode.com/problems/beautiful-arrangement-ii)|||Medium|
+|668|[kth-largest-number-in-multiplication-table](https://leetcode.com/problems/kth-largest-number-in-multiplication-table)|||Hard|
