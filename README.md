@@ -1,9 +1,9 @@
 # :pencil2: Leetcode Solutions with Javascript
-Update time:  2017-08-28 05:25:46
+Update time:  2017-08-29 05:26:06
 
 Auto created by [leetcode_generate](https://github.com/bonfy/leetcode)
 
-I have solved **104   /   593** problems
+I have solved **105   /   593** problems
 while there are **113** problems still locked.
 
 If you want to use this tool please follow this [Usage Guide](https://github.com/bonfy/leetcode/blob/master/README_leetcode_generate.md)
@@ -41,7 +41,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |23|[merge-k-sorted-lists](https://leetcode.com/problems/merge-k-sorted-lists)|||Hard|
 |24|[swap-nodes-in-pairs](https://leetcode.com/problems/swap-nodes-in-pairs)|||Medium|
 |25|[reverse-nodes-in-k-group](https://leetcode.com/problems/reverse-nodes-in-k-group)|||Hard|
-|26|[remove-duplicates-from-sorted-array](https://leetcode.com/problems/remove-duplicates-from-sorted-array)||[:memo:](https://leetcode.com/articles/remove-duplicates-sorted-array/)|Easy|
+|26|[remove-duplicates-from-sorted-array](https://leetcode.com/problems/remove-duplicates-from-sorted-array)|[Javascript](https://github.com/wj2061/leetcode/blob/master/026-remove-duplicates-from-sorted-array/remove-duplicates-from-sorted-array.js)|[:memo:](https://leetcode.com/articles/remove-duplicates-sorted-array/)|Easy|
 |27|[remove-element](https://leetcode.com/problems/remove-element)|[Javascript](https://github.com/wj2061/leetcode/blob/master/027-remove-element/remove-element.js)|[:memo:](https://leetcode.com/articles/remove-element/)|Easy|
 |28|[implement-strstr](https://leetcode.com/problems/implement-strstr)|||Easy|
 |29|[divide-two-integers](https://leetcode.com/problems/divide-two-integers)|||Medium|
