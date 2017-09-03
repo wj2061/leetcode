@@ -1,9 +1,9 @@
 # :pencil2: Leetcode Solutions with Javascript
-Update time:  2017-09-02 05:29:11
+Update time:  2017-09-03 05:29:31
 
 Auto created by [leetcode_generate](https://github.com/bonfy/leetcode)
 
-I have solved **109   /   593** problems
+I have solved **111   /   593** problems
 while there are **113** problems still locked.
 
 If you want to use this tool please follow this [Usage Guide](https://github.com/bonfy/leetcode/blob/master/README_leetcode_generate.md)
@@ -127,7 +127,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |109|[convert-sorted-list-to-binary-search-tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree)|||Medium|
 |110|[balanced-binary-tree](https://leetcode.com/problems/balanced-binary-tree)|[Javascript](https://github.com/wj2061/leetcode/blob/master/110-balanced-binary-tree/balanced-binary-tree.js)||Easy|
 |111|[minimum-depth-of-binary-tree](https://leetcode.com/problems/minimum-depth-of-binary-tree)|||Easy|
-|112|[path-sum](https://leetcode.com/problems/path-sum)|||Easy|
+|112|[path-sum](https://leetcode.com/problems/path-sum)|[Javascript](https://github.com/wj2061/leetcode/blob/master/112-path-sum/path-sum.js)||Easy|
 |113|[path-sum-ii](https://leetcode.com/problems/path-sum-ii)|||Medium|
 |114|[flatten-binary-tree-to-linked-list](https://leetcode.com/problems/flatten-binary-tree-to-linked-list)|||Medium|
 |115|[distinct-subsequences](https://leetcode.com/problems/distinct-subsequences)|||Hard|
@@ -491,7 +491,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |504|[base-7](https://leetcode.com/problems/base-7)|[Javascript](https://github.com/wj2061/leetcode/blob/master/504-base-7/base-7.js)||Easy|
 |505|[the-maze-ii](https://leetcode.com/problems/the-maze-ii)|:lock:|[:memo:](https://leetcode.com/articles/the-maze-ii/)|Medium|
 |506|[relative-ranks](https://leetcode.com/problems/relative-ranks)|[Javascript](https://github.com/wj2061/leetcode/blob/master/506-relative-ranks/relative-ranks.js)||Easy|
-|507|[perfect-number](https://leetcode.com/problems/perfect-number)||[:memo:](https://leetcode.com/articles/perfect-number/)|Easy|
+|507|[perfect-number](https://leetcode.com/problems/perfect-number)|[Javascript](https://github.com/wj2061/leetcode/blob/master/507-perfect-number/perfect-number.js)|[:memo:](https://leetcode.com/articles/perfect-number/)|Easy|
 |508|[most-frequent-subtree-sum](https://leetcode.com/problems/most-frequent-subtree-sum)|||Medium|
 |513|[find-bottom-left-tree-value](https://leetcode.com/problems/find-bottom-left-tree-value)|||Medium|
 |514|[freedom-trail](https://leetcode.com/problems/freedom-trail)|||Hard|
