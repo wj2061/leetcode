@@ -1,9 +1,9 @@
 # :pencil2: Leetcode Solutions with Javascript
-Update time:  2017-09-04 05:29:51
+Update time:  2017-09-05 05:30:11
 
 Auto created by [leetcode_generate](https://github.com/bonfy/leetcode)
 
-I have solved **114   /   597** problems
+I have solved **116   /   597** problems
 while there are **113** problems still locked.
 
 If you want to use this tool please follow this [Usage Guide](https://github.com/bonfy/leetcode/blob/master/README_leetcode_generate.md)
@@ -126,7 +126,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |108|[convert-sorted-array-to-binary-search-tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree)|[Javascript](https://github.com/wj2061/leetcode/blob/master/108-convert-sorted-array-to-binary-search-tree/convert-sorted-array-to-binary-search-tree.js)||Easy|
 |109|[convert-sorted-list-to-binary-search-tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree)|||Medium|
 |110|[balanced-binary-tree](https://leetcode.com/problems/balanced-binary-tree)|[Javascript](https://github.com/wj2061/leetcode/blob/master/110-balanced-binary-tree/balanced-binary-tree.js)||Easy|
-|111|[minimum-depth-of-binary-tree](https://leetcode.com/problems/minimum-depth-of-binary-tree)|||Easy|
+|111|[minimum-depth-of-binary-tree](https://leetcode.com/problems/minimum-depth-of-binary-tree)|[Javascript](https://github.com/wj2061/leetcode/blob/master/111-minimum-depth-of-binary-tree/minimum-depth-of-binary-tree.js)||Easy|
 |112|[path-sum](https://leetcode.com/problems/path-sum)|[Javascript](https://github.com/wj2061/leetcode/blob/master/112-path-sum/path-sum.js)||Easy|
 |113|[path-sum-ii](https://leetcode.com/problems/path-sum-ii)|||Medium|
 |114|[flatten-binary-tree-to-linked-list](https://leetcode.com/problems/flatten-binary-tree-to-linked-list)|||Medium|
@@ -288,7 +288,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |287|[find-the-duplicate-number](https://leetcode.com/problems/find-the-duplicate-number)|||Medium|
 |288|[unique-word-abbreviation](https://leetcode.com/problems/unique-word-abbreviation)|:lock:|[:memo:](https://leetcode.com/articles/unique-word-abbreviation/)|Medium|
 |289|[game-of-life](https://leetcode.com/problems/game-of-life)|||Medium|
-|290|[word-pattern](https://leetcode.com/problems/word-pattern)|||Easy|
+|290|[word-pattern](https://leetcode.com/problems/word-pattern)|[Javascript](https://github.com/wj2061/leetcode/blob/master/290-word-pattern/word-pattern.js)||Easy|
 |291|[word-pattern-ii](https://leetcode.com/problems/word-pattern-ii)|:lock:||Hard|
 |292|[nim-game](https://leetcode.com/problems/nim-game)|[Javascript](https://github.com/wj2061/leetcode/blob/master/292-nim-game/nim-game.js)|[:memo:](https://leetcode.com/articles/nim-game/)|Easy|
 |293|[flip-game](https://leetcode.com/problems/flip-game)|:lock:||Easy|
