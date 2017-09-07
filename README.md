@@ -1,9 +1,9 @@
 # :pencil2: Leetcode Solutions with Javascript
-Update time:  2017-09-06 05:30:31
+Update time:  2017-09-07 05:30:51
 
 Auto created by [leetcode_generate](https://github.com/bonfy/leetcode)
 
-I have solved **117   /   597** problems
+I have solved **118   /   597** problems
 while there are **113** problems still locked.
 
 If you want to use this tool please follow this [Usage Guide](https://github.com/bonfy/leetcode/blob/master/README_leetcode_generate.md)
@@ -64,12 +64,12 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |46|[permutations](https://leetcode.com/problems/permutations)|||Medium|
 |47|[permutations-ii](https://leetcode.com/problems/permutations-ii)|||Medium|
 |48|[rotate-image](https://leetcode.com/problems/rotate-image)|||Medium|
-|49|[group-anagrams](https://leetcode.com/problems/group-anagrams)|||Medium|
+|49|[group-anagrams](https://leetcode.com/problems/group-anagrams)||[:memo:](https://leetcode.com/articles/group-anagrams/)|Medium|
 |50|[powx-n](https://leetcode.com/problems/powx-n)|||Medium|
 |51|[n-queens](https://leetcode.com/problems/n-queens)|||Hard|
 |52|[n-queens-ii](https://leetcode.com/problems/n-queens-ii)|||Hard|
 |53|[maximum-subarray](https://leetcode.com/problems/maximum-subarray)|[Javascript](https://github.com/wj2061/leetcode/blob/master/053-maximum-subarray/maximum-subarray.js)||Easy|
-|54|[spiral-matrix](https://leetcode.com/problems/spiral-matrix)|||Medium|
+|54|[spiral-matrix](https://leetcode.com/problems/spiral-matrix)||[:memo:](https://leetcode.com/articles/spiral-matrix/)|Medium|
 |55|[jump-game](https://leetcode.com/problems/jump-game)||[:memo:](https://leetcode.com/articles/jump-game/)|Medium|
 |56|[merge-intervals](https://leetcode.com/problems/merge-intervals)|||Medium|
 |57|[insert-interval](https://leetcode.com/problems/insert-interval)|||Hard|
@@ -233,7 +233,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |231|[power-of-two](https://leetcode.com/problems/power-of-two)|[Javascript](https://github.com/wj2061/leetcode/blob/master/231-power-of-two/power-of-two.js)||Easy|
 |232|[implement-queue-using-stacks](https://leetcode.com/problems/implement-queue-using-stacks)|[Javascript](https://github.com/wj2061/leetcode/blob/master/232-implement-queue-using-stacks/implement-queue-using-stacks.js)|[:memo:](https://leetcode.com/articles/implement-queue-using-stacks/)|Easy|
 |233|[number-of-digit-one](https://leetcode.com/problems/number-of-digit-one)||[:memo:](https://leetcode.com/articles/number-of-digit-one/)|Hard|
-|234|[palindrome-linked-list](https://leetcode.com/problems/palindrome-linked-list)|||Easy|
+|234|[palindrome-linked-list](https://leetcode.com/problems/palindrome-linked-list)|[Javascript](https://github.com/wj2061/leetcode/blob/master/234-palindrome-linked-list/palindrome-linked-list.js)||Easy|
 |235|[lowest-common-ancestor-of-a-binary-search-tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree)|[Javascript](https://github.com/wj2061/leetcode/blob/master/235-lowest-common-ancestor-of-a-binary-search-tree/lowest-common-ancestor-of-a-binary-search-tree.js)||Easy|
 |236|[lowest-common-ancestor-of-a-binary-tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree)|||Medium|
 |237|[delete-node-in-a-linked-list](https://leetcode.com/problems/delete-node-in-a-linked-list)|[Javascript](https://github.com/wj2061/leetcode/blob/master/237-delete-node-in-a-linked-list/delete-node-in-a-linked-list.js)|[:memo:](https://leetcode.com/articles/delete-node-linked-list/)|Easy|
