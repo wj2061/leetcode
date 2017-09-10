@@ -1,9 +1,9 @@
 # :pencil2: Leetcode Solutions with Javascript
-Update time:  2017-09-09 05:31:16
+Update time:  2017-09-10 05:31:37
 
 Auto created by [leetcode_generate](https://github.com/bonfy/leetcode)
 
-I have solved **118   /   597** problems
+I have solved **120   /   601** problems
 while there are **113** problems still locked.
 
 If you want to use this tool please follow this [Usage Guide](https://github.com/bonfy/leetcode/blob/master/README_leetcode_generate.md)
@@ -38,7 +38,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |20|[valid-parentheses](https://leetcode.com/problems/valid-parentheses)|[Javascript](https://github.com/wj2061/leetcode/blob/master/020-valid-parentheses/valid-parentheses.js)||Easy|
 |21|[merge-two-sorted-lists](https://leetcode.com/problems/merge-two-sorted-lists)|[Javascript](https://github.com/wj2061/leetcode/blob/master/021-merge-two-sorted-lists/merge-two-sorted-lists.js)||Easy|
 |22|[generate-parentheses](https://leetcode.com/problems/generate-parentheses)|||Medium|
-|23|[merge-k-sorted-lists](https://leetcode.com/problems/merge-k-sorted-lists)|||Hard|
+|23|[merge-k-sorted-lists](https://leetcode.com/problems/merge-k-sorted-lists)||[:memo:](https://leetcode.com/articles/merge-k-sorted-list/)|Hard|
 |24|[swap-nodes-in-pairs](https://leetcode.com/problems/swap-nodes-in-pairs)|||Medium|
 |25|[reverse-nodes-in-k-group](https://leetcode.com/problems/reverse-nodes-in-k-group)|||Hard|
 |26|[remove-duplicates-from-sorted-array](https://leetcode.com/problems/remove-duplicates-from-sorted-array)|[Javascript](https://github.com/wj2061/leetcode/blob/master/026-remove-duplicates-from-sorted-array/remove-duplicates-from-sorted-array.js)|[:memo:](https://leetcode.com/articles/remove-duplicates-sorted-array/)|Easy|
@@ -82,7 +82,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |64|[minimum-path-sum](https://leetcode.com/problems/minimum-path-sum)||[:memo:](https://leetcode.com/articles/minimum-path-sum/)|Medium|
 |65|[valid-number](https://leetcode.com/problems/valid-number)|||Hard|
 |66|[plus-one](https://leetcode.com/problems/plus-one)|[Javascript](https://github.com/wj2061/leetcode/blob/master/066-plus-one/plus-one.js)||Easy|
-|67|[add-binary](https://leetcode.com/problems/add-binary)|||Easy|
+|67|[add-binary](https://leetcode.com/problems/add-binary)|[Javascript](https://github.com/wj2061/leetcode/blob/master/067-add-binary/add-binary.js)||Easy|
 |68|[text-justification](https://leetcode.com/problems/text-justification)|||Hard|
 |69|[sqrtx](https://leetcode.com/problems/sqrtx)|||Easy|
 |70|[climbing-stairs](https://leetcode.com/problems/climbing-stairs)|[Javascript](https://github.com/wj2061/leetcode/blob/master/070-climbing-stairs/climbing-stairs.js)|[:memo:](https://leetcode.com/articles/climbing-stairs/)|Easy|
@@ -202,7 +202,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |200|[number-of-islands](https://leetcode.com/problems/number-of-islands)|||Medium|
 |201|[bitwise-and-of-numbers-range](https://leetcode.com/problems/bitwise-and-of-numbers-range)|||Medium|
 |202|[happy-number](https://leetcode.com/problems/happy-number)|[Javascript](https://github.com/wj2061/leetcode/blob/master/202-happy-number/happy-number.js)||Easy|
-|203|[remove-linked-list-elements](https://leetcode.com/problems/remove-linked-list-elements)|||Easy|
+|203|[remove-linked-list-elements](https://leetcode.com/problems/remove-linked-list-elements)|[Javascript](https://github.com/wj2061/leetcode/blob/master/203-remove-linked-list-elements/remove-linked-list-elements.js)||Easy|
 |204|[count-primes](https://leetcode.com/problems/count-primes)|||Easy|
 |205|[isomorphic-strings](https://leetcode.com/problems/isomorphic-strings)|[Javascript](https://github.com/wj2061/leetcode/blob/master/205-isomorphic-strings/isomorphic-strings.js)||Easy|
 |206|[reverse-linked-list](https://leetcode.com/problems/reverse-linked-list)|[Javascript](https://github.com/wj2061/leetcode/blob/master/206-reverse-linked-list/reverse-linked-list.js)|[:memo:](https://leetcode.com/articles/reverse-linked-list/)|Easy|
@@ -613,3 +613,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |670|[maximum-swap](https://leetcode.com/problems/maximum-swap)|||Medium|
 |671|[second-minimum-node-in-a-binary-tree](https://leetcode.com/problems/second-minimum-node-in-a-binary-tree)|||Easy|
 |672|[bulb-switcher-ii](https://leetcode.com/problems/bulb-switcher-ii)|||Medium|
+|673|[number-of-longest-increasing-subsequence](https://leetcode.com/problems/number-of-longest-increasing-subsequence)|||Medium|
+|674|[longest-continuous-increasing-subsequence](https://leetcode.com/problems/longest-continuous-increasing-subsequence)|||Easy|
+|675|[cut-off-trees-for-golf-event](https://leetcode.com/problems/cut-off-trees-for-golf-event)|||Hard|
+|676|[implement-magic-dictionary](https://leetcode.com/problems/implement-magic-dictionary)|||Medium|
