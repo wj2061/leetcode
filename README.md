@@ -1,9 +1,9 @@
 # :pencil2: Leetcode Solutions with Javascript
-Update time:  2017-09-10 05:31:37
+Update time:  2017-09-11 05:31:58
 
 Auto created by [leetcode_generate](https://github.com/bonfy/leetcode)
 
-I have solved **120   /   601** problems
+I have solved **122   /   601** problems
 while there are **113** problems still locked.
 
 If you want to use this tool please follow this [Usage Guide](https://github.com/bonfy/leetcode/blob/master/README_leetcode_generate.md)
@@ -103,7 +103,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |85|[maximal-rectangle](https://leetcode.com/problems/maximal-rectangle)|||Hard|
 |86|[partition-list](https://leetcode.com/problems/partition-list)|||Medium|
 |87|[scramble-string](https://leetcode.com/problems/scramble-string)|||Hard|
-|88|[merge-sorted-array](https://leetcode.com/problems/merge-sorted-array)|||Easy|
+|88|[merge-sorted-array](https://leetcode.com/problems/merge-sorted-array)|[Javascript](https://github.com/wj2061/leetcode/blob/master/088-merge-sorted-array/merge-sorted-array.js)||Easy|
 |89|[gray-code](https://leetcode.com/problems/gray-code)|||Medium|
 |90|[subsets-ii](https://leetcode.com/problems/subsets-ii)|||Medium|
 |91|[decode-ways](https://leetcode.com/problems/decode-ways)|||Medium|
@@ -218,7 +218,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |216|[combination-sum-iii](https://leetcode.com/problems/combination-sum-iii)|||Medium|
 |217|[contains-duplicate](https://leetcode.com/problems/contains-duplicate)|[Javascript](https://github.com/wj2061/leetcode/blob/master/217-contains-duplicate/contains-duplicate.js)|[:memo:](https://leetcode.com/articles/contains-duplicate/)|Easy|
 |218|[the-skyline-problem](https://leetcode.com/problems/the-skyline-problem)|||Hard|
-|219|[contains-duplicate-ii](https://leetcode.com/problems/contains-duplicate-ii)||[:memo:](https://leetcode.com/articles/contains-duplicate-ii/)|Easy|
+|219|[contains-duplicate-ii](https://leetcode.com/problems/contains-duplicate-ii)|[Javascript](https://github.com/wj2061/leetcode/blob/master/219-contains-duplicate-ii/contains-duplicate-ii.js)|[:memo:](https://leetcode.com/articles/contains-duplicate-ii/)|Easy|
 |220|[contains-duplicate-iii](https://leetcode.com/problems/contains-duplicate-iii)||[:memo:](https://leetcode.com/articles/contains-duplicate-iii/)|Medium|
 |221|[maximal-square](https://leetcode.com/problems/maximal-square)||[:memo:](https://leetcode.com/articles/maximal-square/)|Medium|
 |222|[count-complete-tree-nodes](https://leetcode.com/problems/count-complete-tree-nodes)|||Medium|
