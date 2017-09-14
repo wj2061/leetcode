@@ -1,9 +1,9 @@
 # :pencil2: Leetcode Solutions with Javascript
-Update time:  2017-09-13 05:32:39
+Update time:  2017-09-14 05:33:00
 
 Auto created by [leetcode_generate](https://github.com/bonfy/leetcode)
 
-I have solved **126   /   601** problems
+I have solved **128   /   601** problems
 while there are **113** problems still locked.
 
 If you want to use this tool please follow this [Usage Guide](https://github.com/bonfy/leetcode/blob/master/README_leetcode_generate.md)
@@ -25,7 +25,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |7|[reverse-integer](https://leetcode.com/problems/reverse-integer)|||Easy|
 |8|[string-to-integer-atoi](https://leetcode.com/problems/string-to-integer-atoi)|||Medium|
 |9|[palindrome-number](https://leetcode.com/problems/palindrome-number)|[Javascript](https://github.com/wj2061/leetcode/blob/master/009-palindrome-number/palindrome-number.js)|[:memo:](https://leetcode.com/articles/palindrome-number/)|Easy|
-|10|[regular-expression-matching](https://leetcode.com/problems/regular-expression-matching)|||Hard|
+|10|[regular-expression-matching](https://leetcode.com/problems/regular-expression-matching)||[:memo:](https://leetcode.com/articles/regular-expression-matching/)|Hard|
 |11|[container-with-most-water](https://leetcode.com/problems/container-with-most-water)||[:memo:](https://leetcode.com/articles/container-most-water/)|Medium|
 |12|[integer-to-roman](https://leetcode.com/problems/integer-to-roman)|||Medium|
 |13|[roman-to-integer](https://leetcode.com/problems/roman-to-integer)|[Javascript](https://github.com/wj2061/leetcode/blob/master/013-roman-to-integer/roman-to-integer.js)||Easy|
@@ -301,7 +301,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |300|[longest-increasing-subsequence](https://leetcode.com/problems/longest-increasing-subsequence)||[:memo:](https://leetcode.com/articles/longest-increasing-subsequence/)|Medium|
 |301|[remove-invalid-parentheses](https://leetcode.com/problems/remove-invalid-parentheses)|||Hard|
 |302|[smallest-rectangle-enclosing-black-pixels](https://leetcode.com/problems/smallest-rectangle-enclosing-black-pixels)|:lock:|[:memo:](https://leetcode.com/articles/smallest-rectangle-enclosing-black-pixels/)|Hard|
-|303|[range-sum-query-immutable](https://leetcode.com/problems/range-sum-query-immutable)||[:memo:](https://leetcode.com/articles/range-sum-query-immutable/)|Easy|
+|303|[range-sum-query-immutable](https://leetcode.com/problems/range-sum-query-immutable)|[Javascript](https://github.com/wj2061/leetcode/blob/master/303-range-sum-query-immutable/range-sum-query-immutable.js)|[:memo:](https://leetcode.com/articles/range-sum-query-immutable/)|Easy|
 |304|[range-sum-query-2d-immutable](https://leetcode.com/problems/range-sum-query-2d-immutable)||[:memo:](https://leetcode.com/articles/range-sum-query-2d-immutable/)|Medium|
 |305|[number-of-islands-ii](https://leetcode.com/problems/number-of-islands-ii)|:lock:||Hard|
 |306|[additive-number](https://leetcode.com/problems/additive-number)|||Medium|
@@ -559,7 +559,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |599|[minimum-index-sum-of-two-lists](https://leetcode.com/problems/minimum-index-sum-of-two-lists)|[Javascript](https://github.com/wj2061/leetcode/blob/master/599-minimum-index-sum-of-two-lists/minimum-index-sum-of-two-lists.js)|[:memo:](https://leetcode.com/articles/minimum-index-sum-of-two-lists/)|Easy|
 |600|[non-negative-integers-without-consecutive-ones](https://leetcode.com/problems/non-negative-integers-without-consecutive-ones)||[:memo:](https://leetcode.com/articles/non-negative-integers-without-consecutive-ones/)|Hard|
 |604|[design-compressed-string-iterator](https://leetcode.com/problems/design-compressed-string-iterator)|:lock:|[:memo:](https://leetcode.com/articles/desing-compressed-string-iterator/)|Easy|
-|605|[can-place-flowers](https://leetcode.com/problems/can-place-flowers)||[:memo:](https://leetcode.com/articles/can-place-flowers/)|Easy|
+|605|[can-place-flowers](https://leetcode.com/problems/can-place-flowers)|[Javascript](https://github.com/wj2061/leetcode/blob/master/605-can-place-flowers/can-place-flowers.js)|[:memo:](https://leetcode.com/articles/can-place-flowers/)|Easy|
 |606|[construct-string-from-binary-tree](https://leetcode.com/problems/construct-string-from-binary-tree)|[Javascript](https://github.com/wj2061/leetcode/blob/master/606-construct-string-from-binary-tree/construct-string-from-binary-tree.js)|[:memo:](https://leetcode.com/articles/construct-string-from-binary-tree/)|Easy|
 |609|[find-duplicate-file-in-system](https://leetcode.com/problems/find-duplicate-file-in-system)||[:memo:](https://leetcode.com/articles/find-duplicate/)|Medium|
 |611|[valid-triangle-number](https://leetcode.com/problems/valid-triangle-number)|[Javascript](https://github.com/wj2061/leetcode/blob/master/611-valid-triangle-number/valid-triangle-number.js)|[:memo:](https://leetcode.com/articles/valid-triangle-number/)|Medium|
