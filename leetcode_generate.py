@@ -15,9 +15,9 @@ import time
 import datetime
 import re
 import sys
+import html
 
 from selenium import webdriver
-from pyquery import PyQuery as pq
 from collections import namedtuple, OrderedDict
 
 
@@ -329,8 +329,16 @@ class Leetcode:
         solution_url = solution['submission_url']
         r = self.session.get(solution_url, proxies=PROXIES)
         assert r.status_code == 200
-        d = pq(r.text)
-        question = d('html>head>meta[name=description]').attr('content').strip()
+
+        pattern = re.compile(r'<meta name=\"description\" content=\"(?P<question>.*)\" />\n    <meta property=\"og:image\"', re.S)
+        m1 = pattern.search(r.text)
+        question = m1.groupdict()['question'] if m1 else None
+
+        if not question:
+            raise Exception('Can not find question descript in question:{title}'.format(title=solution['title']))
+
+        # html.unescape to remove &quot; &#39;
+        question = html.unescape(question)
 
         pattern = re.compile(r'submissionCode: \'(?P<code>.*)\',\n  editCodeUrl', re.S)
         m1 = pattern.search(r.text)
